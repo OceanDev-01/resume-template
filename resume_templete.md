@@ -48,7 +48,7 @@ Curabitur vehicula elementum metus sed fringilla. Pellentesque in leo ut eros pr
 ##### SKILLS
 Lorem ipsum         Lorem ipsum         Lorem ipsum         Lorem ipsum         Lorem ipsum
 
-##### EDUCACIÓN
+##### EDUCATION
 <div style="display: flex;">
 	<div style="flex: 1; padding-right: 10px;"> 
 		<p>Month YYYY - Month YYYY<br>
