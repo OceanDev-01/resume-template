@@ -83,7 +83,7 @@ Lorem ipsum         Lorem ipsum         Lorem ipsum         Lorem ipsum         
 	</div>
 </div>
 
-##### HOBBIES
+##### ACTIVITIES
 Lorem ipsum         Lorem ipsum         Lorem ipsum         Lorem ipsum         Lorem ipsum
 
 ##### LANGUAGES
