@@ -9,7 +9,7 @@
 		</blockquote>
 	</div>
 	<div style="flex: 2; padding-left: 10px; text-align: right;">
-		<img style="heigh: 50px; widht: 50px;" src="https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png" alt="cv-perfil">
+		<img src="https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png" alt="cv-perfil" width="200" height="200">
 	</div>
 </div>
 
